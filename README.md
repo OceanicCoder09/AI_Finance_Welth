@@ -1,5 +1,4 @@
-# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
-
+# Full Stack AI Fianace Platform 
 An AI-powered personal finance tracker built using cutting-edge web technologies. The platform allows users to effortlessly manage expenses, visualize budgets, and extract data from receipts using AI. Designed with modern UI principles and built for scalability and real-time performance.
 ## 🛠️ Tech Stack
 
